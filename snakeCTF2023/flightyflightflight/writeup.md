@@ -8,7 +8,7 @@
 
 *Flag format: snakeCTF{IATAcode_ICAOcode}*
 
-*Attachment: [videoForMom.mp4](https://github.com/marihere/CTF_writeups/tree/main/snakeCTF2023/flightyflightflight/attachments/videoForMom.mp4)*
+*Attachment: [videoForMom.mp4](https://github.com/marihere/CTF_writeups/tree/main/snakeCTF2023/flightyflightflight/attachment/videoForMom.mp4)*
 
 ---
 
