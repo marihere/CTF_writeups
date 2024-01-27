@@ -1,7 +1,7 @@
 # CTF writeups
 
 - #### [RTLxHA CTF 21](https://github.com/marihere/CTF_writeups/tree/main/RTLxHACTF21)
-  * [Where is this?](https://github.com/marihere/CTF_writeups/tree/main/RTLxHACTF21/Where%20is%20this%3F) (osint)
+  * [Where is this?](https://github.com/marihere/CTF_writeups/tree/main/RTLxHACTF21/Where%20is%20this) (osint)
 - #### [Engineer CTF 2022](https://github.com/marihere/CTF_writeups/tree/main/EngineerCTF2022)
   * [Plain Sight](https://github.com/marihere/CTF_writeups/tree/main/EngineerCTF2022/Plain%20Sight) (forensics)
   * [Shakespeare and Encoding](https://github.com/marihere/CTF_writeups/tree/main/EngineerCTF2022/Shakespeare%20and%20Encoding) (cryptography)
